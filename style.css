@@ -3,6 +3,7 @@ body {
     height: 100%;
     font-family: 'Montserrat', sans-serif;
     display: flex;
+    scroll-behavior: smooth;
     
     background: #EBE9FF;
 }
